@@ -1,0 +1,17 @@
+{
+  "name": "vaquita",
+  "version": "0.1.0",
+  "description": "Get a random ironhacker name!",
+  "main": "lib/index.js",
+  "scripts": {
+    "start": "node lib/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "cowsay": "^1.4.0",
+    "readline-sync": "^1.4.10"
+  }
+}
